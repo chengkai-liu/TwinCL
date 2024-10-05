@@ -15,7 +15,7 @@ Please update `conf/TwinCL.conf` to adjust the hyperparameters and experimental 
 ```bibtex
 @article{liu2024twincl,
       title={TwinCL: A Twin Graph Contrastive Learning Model for Collaborative Filtering}, 
-      author={Chengkai Liu and Jianling Wang and James Caverlee},
+      author={Liu, Chengkai and Wang, Jianling and Caverlee, James},
       journal={arXiv preprint arXiv:2409.19169},
       year={2024}
 }
